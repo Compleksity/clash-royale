@@ -8,5 +8,7 @@ Thanks for checking this out and have fun!
 #### Here are our sources:
 
 https://clashroyale.fandom.com/wiki/Clash_Royale_Wiki
+
 https://en.wikipedia.org/wiki/Clash_Royale
+
 https://supercell.com/en/games/clashroyale/
